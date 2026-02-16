@@ -240,3 +240,9 @@ Please follow the existing code style: type hints, docstrings, logging instead o
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+
+Built and maintained by **Ramakrushna Mohapatra**.
+
+Follow my work on X (Twitter):  
+👉 https://x.com/techwith_ram
