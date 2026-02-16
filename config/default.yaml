@@ -1,0 +1,31 @@
+perception:
+  model_name: "ViT-B-32"
+  pretrained: "laion2b_s34b_b79k"
+  device: "auto"
+
+keyframe:
+  threshold: 0.15
+
+memory:
+  collection_name: "robot_visual_memory"
+  vector_size: 512
+  distance: "cosine"
+  qdrant_host: "localhost"
+  qdrant_port: 6333
+
+retrieval:
+  confident_match: 0.85
+  partial_match: 0.75
+  score_threshold: 0.5
+  top_k: 5
+
+change_detection:
+  ema_alpha: 0.1
+  change_threshold: 0.3
+
+compression:
+  keep_every_nth: 3
+  age_threshold_hours: 24
+
+logging:
+  level: "INFO"
