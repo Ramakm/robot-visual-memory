@@ -245,4 +245,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 Built and maintained by **Ramakrushna Mohapatra**.
 
 Follow my work on X (Twitter):  
-👉 https://x.com/techwith_ram
+👉 [![Follow Me](https://img.shields.io/badge/Follow%20on-X-black?logo=twitter)](https://x.com/techwith_ram)
+
