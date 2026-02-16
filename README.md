@@ -2,7 +2,8 @@
 
 Real-time visual place recognition and scene memory for robots using CLIP, Qdrant, and ROS2.
 
----
+<img width="2000" height="600" alt="image" src="https://github.com/user-attachments/assets/c2899e00-b8b7-43ce-9856-d4942ac2a449" />
+
 
 ## Overview
 
